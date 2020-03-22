@@ -1,0 +1,326 @@
+@media (max-width: 1200px) {
+	section#advantages .advantage .text .text-title {
+		font-size: 16px;
+	}
+	#contact form input, #contact form textarea {
+		font-size: 18px;
+		border-radius: 10px;
+		padding: 12px 20px;
+	}
+	section#advantages .advantage .text p {
+		font-size: 12px;
+	}
+	#catalog .product-info table tr th {
+		font-size: 14px;
+	}
+	#catalog .product-info table tr td {
+		font-size: 12px;
+	}
+	#catalog .product-info table tr td.descr {
+		font-size: 10px;
+	}
+	#contact form button[type="submit"] {
+		font-size: 18px;
+	}
+	#contact .form {
+		padding: 30px;
+	}
+	#catalog .product-card {
+		margin-bottom: 20px;
+	}
+	header .header-box .left .title {
+		font-size: 14px;
+	}
+	#banner .cart {
+		bottom: 50px;
+	}
+	#banner h1.title {
+		font-size: 36px;
+		margin-bottom: 20px;
+	}
+
+
+}
+
+@media (max-width: 992px) {
+
+}
+
+@media (max-width: 768px) {
+	#catalog .product .slider .slider-nav div img,
+	#catalog .product .slider .slider-nav div a {
+		height: 65px;
+	}
+	#catalog .product .slider .slider-nav div a img {
+		width: 50px;
+	}
+	#catalog .product .slider .slider-for div img {
+		max-height: 220px;
+	}
+	header .menu a {
+		font-size: 12px;
+	}
+	#banner h1.title {
+		font-size: 28px;
+	}
+	#video .title,
+	#special-offers .title,
+	#catalog .title,
+	#scheme .title,
+	section#advantages .title,
+	#special-offers h2.title {
+		font-size: 22px;
+	}
+	#catalog .product .title {
+		font-size: 18px;
+	}
+	#certificate .container-img {
+		margin-bottom: 20px;
+	}
+	#contact form button[type="submit"] {
+		font-size: 14px;
+	}
+	#contact .form {
+		padding: 15px;
+	}
+	#contact .title,
+	#map .title {
+		font-size: 28px;
+	}
+	header .header-box .logo {
+		margin-right: 20px;
+	}
+	header .header-box .left .title {
+		font-size: 14px;
+		max-width: 250px;
+	}
+	header .header-box .right .contacts {
+		margin-right: 20px;
+	}
+	header .header-box .right a.contact-link {
+		font-size: 14px;
+	}
+	footer#footer div.right {
+		text-align: left;
+	}
+	footer#footer .payment {
+		align-items: flex-start;
+	}
+	#contact {
+		margin-bottom: 40px;
+	}
+	#certificate {
+		margin-bottom: 30px;
+	}
+	#special-offers .banner .title {
+		font-size: 22px;
+	}
+	#special-offers .banner {
+		height: 300px;
+	}
+	#catalog .product-info table tr th {
+		font-size: 18px;
+	}
+	#catalog .product-info table tr td {
+		font-size: 16px;
+	}
+	#catalog .product .title {
+		margin-bottom: 20px;
+	}
+	#scheme .countdown .left-text .title {
+		font-size: 28px;
+		margin-bottom: 5px;
+	}
+	#scheme .countdown .left-text .descr {
+		font-size: 14px;
+	}
+	#scheme .countdown .timer {
+		top: 10px;
+	}
+	#catalog .product-card .text {
+		display: flex;
+		    flex-direction: column;
+		    align-items: flex-start;
+		    justify-content: center;
+	}
+	#catalog .product-card .text .title {
+		font-size: 14px;
+	}
+	#catalog .product-card .text a {
+		padding: 8px 20px;
+		font-size: 14px;
+	}
+	#catalog .product-card .text {
+		align-items: center;
+	}
+	#special-offers .banner .container-img {
+		display: none;
+	}
+	#special-offers .banner.right {
+		text-align: left;
+	}
+	#special-offers .banner {
+		height: auto;
+	}
+	#special-offers .banner.right .title {
+		text-align: left;
+	}
+	#special-offers .banner {
+		margin-bottom: 20px;
+	}
+	#scheme .countdown {
+		flex-direction: column;
+	}
+	#scheme .countdown .left-text {
+		margin-bottom: 20px;
+	}
+	#scheme .countdown .left-text .title {
+		text-align: center;
+	}
+	#scheme .countdown .left-text .descr {
+		text-align: center;
+	}
+	#scheme .countdown .right-text {
+		padding-right: 0;
+	}
+}
+
+@media (max-width: 520px) {
+	header .menu,
+	header .header-box .right .contacts,
+	header .header-box .right .contact-link {
+		display: none;
+	}
+	.header__menu {
+		display: block;
+	}
+	#banner h1.title {
+		font-size: 18px;
+		margin-bottom: 20px;
+	}
+	#banner ul li {
+		font-size: 14px;
+	}
+	#banner ul {
+		margin-bottom: 20px;
+	}
+	#catalog .product-info table tr td {
+		font-size: 10px;
+	}
+	#catalog .product-info table tr th {
+		font-size: 14px;
+	}
+	#catalog .product .title {
+		font-size: 16px;
+	}
+	#catalog .product-card .container-img img {
+		width: 140px;
+	}
+	#catalog .product-card .text .title {
+		font-size: 16px;
+	}
+	#special-offers .banner .container-img {
+		display: none;
+	}
+	#video .title, #special-offers .title, #catalog .title, #scheme .title, section#advantages .title, #special-offers h2.title {
+		font-size: 18px;
+		margin-bottom: 20px;
+	}
+	#video .video-container {
+		margin-bottom: 15px;
+	}
+	#contact .title, #map .title {
+		font-size: 22px;
+		margin-bottom: 20px;
+	}
+	#contact form input, #contact form textarea {
+		margin-bottom: 15px;
+	}
+	#contact form button[type="submit"] {
+		font-size: 12px 20px;
+		margin-bottom: 15px;
+	}
+	footer#footer ul li {
+		margin-bottom: 10px;
+	}
+	footer#footer ul {
+		margin-bottom: 30px;
+	}
+
+	footer#footer {
+		padding: 30px 0 40px;
+	}
+	#catalog .product-card .text .title {
+		font-size: 12px;
+	}
+	#catalog .product-card .text p {
+		font-size: 10px;
+	}
+	#catalog .product-card .text a {
+		padding: 10px 20px;
+	}
+	section#advantages {
+		padding-top: 40px;
+	}
+	#special-offers .banner {
+	    height: 260px;
+	    margin-bottom: 15px;
+	}
+	header .header-box .left .title {
+		font-size: 12px;
+	}
+	#special-offers .banner.right {
+		height: auto;
+	}
+	section#map {
+		display: none;
+	}
+	#catalog .product .slider {
+		max-width: 400px;
+	}
+	.timer .head {
+		font-family: SFUIText-Heavy;
+	}
+	#catalog .product-info table tr td {
+		padding: 8px 4px;
+	}
+	#catalog .product .slider .stock-item {
+		width: auto;
+		height: auto;
+		transform: none;
+		left: 0;
+		top: 0;
+		padding: 5px;
+		align-items: flex-start;
+		text-align: left;
+	}
+	#catalog .product .slider .stock-item .title {
+		margin-bottom: 2px;
+		font-size: 14px;
+	}
+	#catalog .product-info table tr td.descr {
+		font-size: 0;
+		opacity: 0;
+	}
+	header .header-box .right .flex {
+		display: none;
+	}
+
+	#contact form textarea {
+	    height: 150px;
+	}
+
+
+}
+
+@media (max-width: 480px) {
+
+}
+
+@media (max-width: 375px) {
+
+}
+
+@media (max-width: 320px) {
+
+}
